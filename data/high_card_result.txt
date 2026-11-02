@@ -1,0 +1,8 @@
+=== High Card Game Summary ===
+
+Round 1 (Tie-Breaker: False)
+ - Player 1: 10 of HEARTS (Value: 10)
+ - Player 2: QUEEN of HEARTS (Value: 12)
+  Round Winner(s): Player 2
+
+Final Winner: Player 2

@@ -1,0 +1,67 @@
+[
+  {
+    "round": 1,
+    "is_tie_breaker": false,
+    "results": {
+      "Player 1": {
+        "card": "10 of HEARTS",
+        "value": 10,
+        "raw_card": {
+          "code": "0H",
+          "image": "https://deckofcardsapi.com/static/img/0H.png",
+          "images": {
+            "svg": "https://deckofcardsapi.com/static/img/0H.svg",
+            "png": "https://deckofcardsapi.com/static/img/0H.png"
+          },
+          "value": "10",
+          "suit": "HEARTS"
+        }
+      },
+      "Player 2": {
+        "card": "QUEEN of HEARTS",
+        "value": 12,
+        "raw_card": {
+          "code": "QH",
+          "image": "https://deckofcardsapi.com/static/img/QH.png",
+          "images": {
+            "svg": "https://deckofcardsapi.com/static/img/QH.svg",
+            "png": "https://deckofcardsapi.com/static/img/QH.png"
+          },
+          "value": "QUEEN",
+          "suit": "HEARTS"
+        }
+      }
+    },
+    "max_value": 12,
+    "winners_of_round": [
+      "Player 2"
+    ],
+    "raw_response": {
+      "success": true,
+      "deck_id": "1oa2z1fjsagm",
+      "cards": [
+        {
+          "code": "0H",
+          "image": "https://deckofcardsapi.com/static/img/0H.png",
+          "images": {
+            "svg": "https://deckofcardsapi.com/static/img/0H.svg",
+            "png": "https://deckofcardsapi.com/static/img/0H.png"
+          },
+          "value": "10",
+          "suit": "HEARTS"
+        },
+        {
+          "code": "QH",
+          "image": "https://deckofcardsapi.com/static/img/QH.png",
+          "images": {
+            "svg": "https://deckofcardsapi.com/static/img/QH.svg",
+            "png": "https://deckofcardsapi.com/static/img/QH.png"
+          },
+          "value": "QUEEN",
+          "suit": "HEARTS"
+        }
+      ],
+      "remaining": 50
+    }
+  }
+]
